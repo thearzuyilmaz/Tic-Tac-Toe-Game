@@ -23,7 +23,7 @@ A modern, interactive Tic-Tac-Toe game built with **React**! Play against a frie
 
 ---
 
-npm run preview
+npm run npm run dev
 
 ---
 
