@@ -28,10 +28,10 @@ npm run preview
 ---
 
 ## 🖼️ Game Screen
-![Gameplay Screenshot](./assets/Game-Screen.png)
+![Gameplay Screenshot](./src/assets/Game-Screen.png)
 
 ## 🖼️ Game Over Screen
-![Game Over Screenshot](./assets/Game-Over-Screen.png)
+![Game Over Screenshot](./src/assets/Game-Over-Screen.png)
 
 
 
